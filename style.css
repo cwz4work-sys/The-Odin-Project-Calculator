@@ -43,6 +43,9 @@ body {
     justify-content: end;
     align-items: center;
     font-size: 2rem;
+    width: 0;
+    min-width: 100%;
+    overflow: hidden;
 }
 
 .display > p {
